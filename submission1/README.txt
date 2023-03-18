@@ -2,7 +2,7 @@ Overleaf link:
 https://www.overleaf.com/read/vrmpfygtnkzz
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/cXzGYJgm29Q
 
 Public link to the slide:
 https://docs.google.com/presentation/d/1BKVR2IcUuXtiHZuSLajduKFXpTDsj6hf7kwkP0LYrYU/edit?usp=sharing
